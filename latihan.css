@@ -1,0 +1,29 @@
+body{
+background-image:url('stud3.jpeg');
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+h1{
+    letter-spacing: 0.25rem;
+    color: papayawhip;
+    text-align: center;
+}
+h2{
+    color: papayawhip;
+    text-align: center;
+}
+img{
+    border: 0px solid ;
+    border-radius: 350px;
+    width: 175px;
+    height: 177px;
+    align-content: content;
+}
+p{
+    word-spacing: 4px;
+    font-weight: 500;
+    color: white;
+    word-spacing: 0.5rem;
+
+}
